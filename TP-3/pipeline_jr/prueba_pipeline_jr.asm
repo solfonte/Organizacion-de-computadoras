@@ -1,0 +1,9 @@
+addi $t1,$zero,2
+addi $t2,$zero,25
+addi $t7,$zero,32
+jr $t7
+add $t3,$t2,$t1
+add $t4,$t2,$t1
+add $t5,$t1,$t2
+add $t6,$t1,$t2
+add $t0,$t1,$t2
